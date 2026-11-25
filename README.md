@@ -1,60 +1,47 @@
-# Hi there 👋 I'm a Student Developer
+# Hi, I'm Tomohiro 👋
 
-立命館大学で情報技術を学んでいる学生エンジニアです。
-ユーザーの課題を解決するためのモダンなフロントエンド開発から、堅牢なバックエンド設計、さらには生成AIを活用したチャットボット開発まで、Webアプリケーション開発全般に広く興味を持って取り組んでいます。
+**AI Automation Developer | n8n, Python & API Integration** — based in Kyoto, Japan (UTC+9)
 
-### 🛠 Tech Stack
+I build automations and bots that remove repetitive work: LINE/Gemini chatbots, API integrations, Google Sheets pipelines and small web apps — delivered with clear setup docs and tests.
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tomo0904.github.io-111827?style=for-the-badge)](https://tomo0904.github.io/)
+[![Hire me on Upwork](https://img.shields.io/badge/Hire%20me%20on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0159af0451937c1a2a)
+
+## Skills
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-**Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-
-**Backend & AI**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?logo=googlesheets&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=google-gemini&logoColor=white)
+![LINE](https://img.shields.io/badge/LINE_Bot-06C755?logo=line&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 
-**Database & Infrastructure**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+- Workflow automation with **n8n** and **Python**
+- **API integration** (REST, webhooks, LINE Messaging API, Gemini API)
+- **Google Sheets** automation
+- **LINE / Gemini chatbots**
+- **React / TypeScript / Next.js** web apps; Supabase, Firebase, Vercel
 
----
+## Selected work
 
-### 🚀 Featured Projects
+| Project | What it is | Stack |
+|---|---|---|
+| [n8n-automation-recipes](https://github.com/TOMO0904/n8n-automation-recipes) | Sample n8n workflows with credentials removed (demo) | n8n |
+| [python-sheets-automation](https://github.com/TOMO0904/python-sheets-automation) | Aggregate API data and write it to Google Sheets (demo) | Python, gspread |
+| [deep-space-care-linebot](https://github.com/TOMO0904/deep-space-care-linebot) | LINE mental-care bot prototype with crisis pre-filter | FastAPI, Gemini, LINE API |
+| [linebot](https://github.com/TOMO0904/linebot) | Task-logging LINE bot with inactivity patrol | Flask, Gemini, Firestore |
+| [RitsumeikanTimes](https://github.com/TOMO0904/RitsumeikanTimes) | Timetable & syllabus search web app ([live](https://gamma-gilt.vercel.app/)) | Next.js, Supabase |
+| [offline-board-games](https://github.com/TOMO0904/offline-board-games) | Offline-capable PWA with 20 board games | TypeScript, PWA |
+| [Athena](https://github.com/TOMO0904/Athena) | Transformer oil-temperature forecasting | Python, LightGBM |
+| [hand-dodge-plus](https://github.com/TOMO0904/hand-dodge-plus) | Webcam hand-controlled game | Python, OpenCV, MediaPipe |
+| [RiG-PixelLab](https://github.com/TOMO0904/RiG-PixelLab) | Photo → pixel-art desktop app | Python, Pillow |
+| [todolist](https://github.com/TOMO0904/todolist) | Task board with recursive effort roll-up | Java, Spring Boot |
+| [Hand-Target-Shooter](https://github.com/TOMO0904/Hand-Target-Shooter) | Finger-flick shooting game | Python, MediaPipe |
 
-#### 1. Ritsumei Timetable
-立命館大学の学生に特化した、高速で直感的なWeb時間割・シラバス検索アプリです。
-* **技術:** Next.js 14, TypeScript, Tailwind CSS, Supabase
-* **工夫:** 大学のシラバス更新に備えたスナップショット機能の設計や、独自Sync IDを用いたパスワードレスな複数デバイス同期機能を実装しました。
-* **リポジトリ:** [RitsumeikanTimes](https://github.com/TOMO0904/RitsumeikanTimes)
+Case studies with problem / solution / tech for each project: **[tomo0904.github.io](https://tomo0904.github.io/)**
 
-#### 2. ゲーム制作 タスク管理ボード
-チーム開発における複雑なタスクと工数を見える化するバックエンドシステムです。
-* **技術:** Java 21, Spring Boot, MySQL, AWS RDS
-* **工夫:** 親子関係が無限に続くタスクのツリー構造をデータベース上で表現し、再帰的アルゴリズムを用いてプロジェクト全体の総工数を自動集計するロジックを実装しました。
-* **リポジトリ:** [web-application](https://github.com/TOMO0904/web-application)
+## Contact
 
-#### 3. Task Logger LINE Bot
-生成AIを活用し、生産性向上をやさしくサポートするLINEチャットボットです。
-* **技術:** Python, Flask, LINE Messaging API, Gemini API, Firebase Firestore
-* **工夫:** プロンプトエンジニアリングによるキャラクター対話機能に加え、タスク終了後に一定時間記録がないと自動でリマインドを送信する「30分パトロール機能」を実装しました。
-* **リポジトリ:** [linebot](https://github.com/TOMO0904/linebot)
-
----
-
-### 📊 GitHub Stats
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=TOMO0904&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOMO0904&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</div>
+Message me on [Upwork](https://www.upwork.com/freelancers/~0159af0451937c1a2a).
