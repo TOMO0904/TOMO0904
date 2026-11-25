@@ -33,7 +33,7 @@ I build automations and bots that remove repetitive work: LINE/Gemini chatbots, 
 | [deep-space-care-linebot](https://github.com/TOMO0904/deep-space-care-linebot) | LINE mental-care bot prototype with crisis pre-filter | FastAPI, Gemini, LINE API |
 | [linebot](https://github.com/TOMO0904/linebot) | Task-logging LINE bot with inactivity patrol | Flask, Gemini, Firestore |
 | [RitsumeikanTimes](https://github.com/TOMO0904/RitsumeikanTimes) | Timetable & syllabus search web app ([live](https://gamma-gilt.vercel.app/)) | Next.js, Supabase |
-| [offline-board-games](https://github.com/TOMO0904/offline-board-games) | Offline-capable PWA with 20 board games | TypeScript, PWA |
+| [offline-board-games](https://github.com/TOMO0904/offline-board-games) | Offline-capable PWA with 25 board & card games ([live](https://offline-board-games.vercel.app)) | React, TypeScript, PWA, WebRTC |
 | [Athena](https://github.com/TOMO0904/Athena) | Transformer oil-temperature forecasting | Python, LightGBM |
 | [hand-dodge-plus](https://github.com/TOMO0904/hand-dodge-plus) | Webcam hand-controlled game | Python, OpenCV, MediaPipe |
 | [RiG-PixelLab](https://github.com/TOMO0904/RiG-PixelLab) | Photo → pixel-art desktop app | Python, Pillow |
