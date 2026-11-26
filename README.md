@@ -38,7 +38,6 @@ I build automations and bots that remove repetitive work: LINE/Gemini chatbots, 
 | [linebot](https://github.com/TOMO0904/linebot) | Task-logging LINE bot with inactivity patrol | Flask, Gemini, Firestore |
 | [RitsumeikanTimes](https://github.com/TOMO0904/RitsumeikanTimes) | Timetable & syllabus search web app ([live](https://gamma-gilt.vercel.app/)) | Next.js, Supabase |
 | [offline-board-games](https://github.com/TOMO0904/offline-board-games) | Offline-capable PWA with 25 board & card games ([live](https://offline-board-games.vercel.app)) | React, TypeScript, PWA, WebRTC |
-| [Athena](https://github.com/TOMO0904/Athena) | Transformer oil-temperature forecasting | Python, LightGBM |
 | [hand-dodge-plus](https://github.com/TOMO0904/hand-dodge-plus) | Webcam hand-controlled game | Python, OpenCV, MediaPipe |
 | [RiG-PixelLab](https://github.com/TOMO0904/RiG-PixelLab) | Photo → pixel-art desktop app | Python, Pillow |
 | [todolist](https://github.com/TOMO0904/todolist) | Task board with recursive effort roll-up | Java, Spring Boot |
@@ -76,7 +75,6 @@ Message me on [Upwork](https://www.upwork.com/freelancers/~0159af0451937c1a2a).
 | [linebot](https://github.com/TOMO0904/linebot) | 記録が途切れると声をかける、作業記録LINE Bot | Flask, Gemini, Firestore |
 | [RitsumeikanTimes](https://github.com/TOMO0904/RitsumeikanTimes) | 時間割・シラバス検索Webアプリ（[公開中](https://gamma-gilt.vercel.app/)） | Next.js, Supabase |
 | [offline-board-games](https://github.com/TOMO0904/offline-board-games) | オフラインで遊べるボード・カードゲーム25種のPWA（[公開中](https://offline-board-games.vercel.app)） | React, TypeScript, PWA, WebRTC |
-| [Athena](https://github.com/TOMO0904/Athena) | 変圧器のオイル温度予測 | Python, LightGBM |
 | [hand-dodge-plus](https://github.com/TOMO0904/hand-dodge-plus) | Webカメラに映した手で操作するゲーム | Python, OpenCV, MediaPipe |
 | [RiG-PixelLab](https://github.com/TOMO0904/RiG-PixelLab) | 写真をドット絵に変換するデスクトップアプリ | Python, Pillow |
 | [todolist](https://github.com/TOMO0904/todolist) | 工数を再帰的に集計するタスクボード | Java, Spring Boot |
