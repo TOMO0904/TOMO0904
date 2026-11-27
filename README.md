@@ -7,6 +7,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?logo=googlesheets&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=google-gemini&logoColor=white)
 ![LINE](https://img.shields.io/badge/LINE_Bot-06C755?logo=line&logoColor=white)
@@ -32,6 +33,9 @@ I build automations and bots that remove repetitive work: LINE/Gemini chatbots, 
 
 | Project | What it is | Stack |
 |---|---|---|
+| [sales-data-cleaning-report](https://github.com/TOMO0904/sales-data-cleaning-report) | Clean messy order exports (CSV/Excel) and generate an HTML sales report with charts and a data-quality audit (demo) | Python, pandas, matplotlib |
+| [lead-intake-automation](https://github.com/TOMO0904/lead-intake-automation) | Normalize and score web-form leads, email the right owner and log them to a database; Python CLI plus two n8n workflows (demo) | Python, n8n, Google Sheets, SMTP |
+| [catalog-price-monitor](https://github.com/TOMO0904/catalog-price-monitor) | Polite, robots.txt-aware catalog scraper that exports CSV/Excel and reports price changes since the last run (demo) | Python, Requests, BeautifulSoup |
 | [n8n-automation-recipes](https://github.com/TOMO0904/n8n-automation-recipes) | Sample n8n workflows with credentials removed (demo) | n8n |
 | [python-sheets-automation](https://github.com/TOMO0904/python-sheets-automation) | Aggregate API data and write it to Google Sheets (demo) | Python, gspread |
 | [deep-space-care-linebot](https://github.com/TOMO0904/deep-space-care-linebot) | LINE mental-care bot prototype with crisis pre-filter | FastAPI, Gemini, LINE API |
@@ -69,6 +73,9 @@ Message me on [Upwork](https://www.upwork.com/freelancers/~0159af0451937c1a2a).
 
 | プロジェクト | 内容 | 技術 |
 |---|---|---|
+| [sales-data-cleaning-report](https://github.com/TOMO0904/sales-data-cleaning-report) | 汚れた注文データ（CSV/Excel）を整形し、グラフとデータ品質チェック付きのHTML売上レポートを作る（デモ） | Python, pandas, matplotlib |
+| [lead-intake-automation](https://github.com/TOMO0904/lead-intake-automation) | フォームの問い合わせを整形・スコア付けし、担当者へメール通知してDBに記録する。Python版とn8nワークフロー2本（デモ） | Python, n8n, Google Sheets, SMTP |
+| [catalog-price-monitor](https://github.com/TOMO0904/catalog-price-monitor) | robots.txtを守って商品一覧を取得し、CSV/Excel出力と前回からの価格差分を出す（デモ） | Python, Requests, BeautifulSoup |
 | [n8n-automation-recipes](https://github.com/TOMO0904/n8n-automation-recipes) | 認証情報を取り除いたn8nワークフローのサンプル（デモ） | n8n |
 | [python-sheets-automation](https://github.com/TOMO0904/python-sheets-automation) | APIのデータを集計してGoogleスプレッドシートに書き込む（デモ） | Python, gspread |
 | [deep-space-care-linebot](https://github.com/TOMO0904/deep-space-care-linebot) | 危機表現の事前フィルター付き、メンタルケアLINE Botのプロトタイプ | FastAPI, Gemini, LINE API |
